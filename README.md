@@ -13,6 +13,7 @@ All tasks to be done on Centos 7
 9. Create a custom execution module to list the currently configured ntp servers
 
 The following files correspond with taks 1-4. 
+
 Task 1 - ntp/ntp.sls
   - installs the ntp package to all the minions
 
